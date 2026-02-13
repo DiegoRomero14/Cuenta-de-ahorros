@@ -1,5 +1,5 @@
 // Importa la clase AccountService para que cada persona tenga una cuenta asociada
-const { AccountService } = require("../account/account.service");
+const { AccountService } = require("../account/account.services");
 
 // Clase que representa a una persona (cliente) del sistema.
 // Una persona "tiene" una cuenta (composición): Person -> AccountService.

@@ -1,5 +1,5 @@
 // Importa la clase AccountService desde el archivo donde está definida.
-const { AccountService } = require("../src/account/account.service");
+const { AccountService } = require("../src/account/account.services");
 
 
 

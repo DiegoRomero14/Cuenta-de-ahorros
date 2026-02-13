@@ -1,5 +1,5 @@
 // Importa la clase Person desde el archivo donde está definida.
-const { Person } = require("/src/person/person.model");
+const { Person } = require("/src/person/person-model");
 
 
 // Agrupa las pruebas unitarias relacionadas con la clase Person

@@ -1,7 +1,7 @@
 // Importa Express para crear la aplicación (servidor) y manejar rutas HTTP
 const express = require("express");
 // Importa la lógica de negocio de la cuenta
-const { AccountService } = require("./account/account.service");
+const { AccountService } = require("./account/account.services");
 // Importa la fábrica de rutas
 const accountRoutesFactory = require("./account/account.routes");
 
